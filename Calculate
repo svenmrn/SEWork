@@ -1,0 +1,7 @@
+function CalculateAge (birthDate)
+{
+    if (birthDate)
+    {
+    
+    }
+}
