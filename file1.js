@@ -1,7 +1,4 @@
-file1
+function Test(number1, number2)
+{
 
-branch work
-login added ---
-sdf
-
-added line  
+}
