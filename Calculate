@@ -1,6 +1,6 @@
 function CalculateAge (birthDate)
 {
-    if (birthDate)
+    if (birthDate != null)
     {
     
     }
