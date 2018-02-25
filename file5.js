@@ -1,3 +1,3 @@
 test voor stash stahs
 extra aanpassing
-of 3
+of 2
