@@ -6,5 +6,6 @@ bug fix
 
 function WriteToConsole(text)
 {
+	
 	console.log(text)
 }
