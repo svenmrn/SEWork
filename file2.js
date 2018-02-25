@@ -6,5 +6,6 @@ bug fix
 
 function WriteToConsole(text)
 {
+	//comment added
 	console.log(text)
 }
